@@ -1,4 +1,5 @@
 # Simon-Game
+https://eshagarg03.github.io/Simon-Game/
 A digital recreation of the classic Simon game to test and improve memory and attention skills
 
 Simon is a game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison. The device creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over.
